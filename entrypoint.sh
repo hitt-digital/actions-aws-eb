@@ -1,5 +1,5 @@
 #!/bin/sh -l
 
-command="eb $1"
+command="yes n | eb $1"
 
 $command
